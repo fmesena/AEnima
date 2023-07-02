@@ -6,7 +6,7 @@
 
 A fork of a primitive version of [AEnima](https://en.wikipedia.org/wiki/%C3%86nima) can be found in the WASP Platform [organization](https://github.com/wasp-platform), more specifically in [here](https://github.com/wasp-platform/whilloc), where it is still in development.
 
-## Information about this project
+## About the project
 
 ### Basics
 Interpretation. Symbolic execution. OCaml.
@@ -15,6 +15,10 @@ Interpretation. Symbolic execution. OCaml.
 
 ### Target language
 The target language is a standard while language. A well formed program is a set of top-level functions having one entry-point function with the identifier "aenima". The language supports integers, strings, booleans, and the usual operations for these data types.
+
+## Setup
+
+What are the dependencies, how can I install them? (OCaml, dune, ..., what else?)	
 
 ## How to use
 
@@ -32,6 +36,6 @@ In the following section we will describe how to use this tool to actually find 
 #### Interpreting the output
 
 
-## Authors
-This project was developed by Francisco Sena from Instituto Superior Técnico - University of Lisbon, Portugal.\
+## Contact
+This project was developed by Francisco Sena from Instituto Superior Técnico, University of Lisbon, Portugal.\
 For *any* questions: fmesena@gmail.com
