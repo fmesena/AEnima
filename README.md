@@ -13,7 +13,7 @@ Interpretation. Symbolic execution. OCaml.
 
 []: # (This is a comment)
 [comment]: # (Still another comment)
-
+<!-- a normal html comment -->
 <! (Talk about interpretation. Introduce symbolic execution and compare it to concrete execution, briefly hint on the commutative diagram from the classical paper on symbolic execution. Also include the reference for the survey on symbolic execution (may not be updated, so include the year where the survey was published. Finally, mention examples of where symbolic execution can be used (keywords to include: program verification, formal verification, intractability, model) –>
 
 ### Target language
